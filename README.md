@@ -4,8 +4,8 @@
 <h3>Desarrollador Full Stack</h3>
 
 <p>
-	Diseño y desarrollo software enfocado en <strong>resultado de negocio, arquitectura limpia y calidad técnica</strong>.<br/>
-	Trabajo sobre problemas reales: convierto procesos manuales en productos digitales escalables y mantenibles.
+	Construyo soluciones de software enfocadas en <strong>impacto de negocio, arquitectura sostenible y ejecución sólida</strong>.<br/>
+	Me especializo en transformar procesos operativos en productos digitales claros, escalables y mantenibles, con foco en adopción real por parte del usuario.
 </p>
 
 <p>
@@ -35,9 +35,9 @@
 <table>
 	<tr>
 		<td>
-			Desarrollo soluciones full stack, desde el levantamiento de requerimientos hasta la puesta en producción.<br/>
-			Mi foco está en software útil para operación real: sistemas administrativos, digitalización de procesos y plataformas internas.<br/>
-			Tomo decisiones técnicas con foco en reglas de negocio, riesgo operativo y mantenibilidad, buscando equilibrio entre calidad y entrega.
+			Lidero desarrollos full stack de punta a punta: descubrimiento funcional, diseño técnico, implementación y despliegue.<br/>
+			Trabajo en productos para operación real (sistemas administrativos, flujos internos y herramientas comerciales) priorizando utilidad, simplicidad y continuidad operativa.<br/>
+			Mi criterio técnico combina reglas de negocio, reducción de riesgo y mantenibilidad para entregar valor sin comprometer calidad.
 		</td>
 	</tr>
 </table>
@@ -214,7 +214,7 @@
 
 ## Qué busco
 
-Este perfil funciona como portafolio técnico de proyectos reales. Estoy abierto a conversaciones para participar en productos donde se valore ejecución, criterio técnico y evolución continua.
+Busco sumarme a productos y equipos que valoren la ejecución con criterio, la calidad técnica y la mejora continua. Me interesan desafíos donde pueda aportar impacto desde el código hasta la toma de decisiones técnicas del producto.
 
 ## Contacto
 
