@@ -1,12 +1,11 @@
-
 <div align="center">
 
 <h1>Esteban Rsh</h1>
-<h3>Desarrollador Full Stack orientado a productos reales</h3>
+<h3>Desarrollador Full Stack | Construcción y evolución de productos SaaS</h3>
 
 <p>
-	Construyo aplicaciones web con foco en <strong>negocio, arquitectura y calidad</strong>.<br/>
-	Me especializo en transformar procesos manuales en soluciones digitales claras, mantenibles y seguras.
+	Diseño y desarrollo software enfocado en <strong>resultado de negocio, arquitectura limpia y calidad técnica</strong>.<br/>
+	Trabajo sobre problemas reales: convierto procesos manuales en productos digitales escalables y mantenibles.
 </p>
 
 <p>
@@ -14,7 +13,7 @@
 		<img src="https://img.shields.io/badge/GitHub-EstebanRsh-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 	</a>
 	<a href="http://imperialsoft.site/">
-		<img src="https://img.shields.io/badge/Web-imperalsoft.site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web"/>
+		<img src="https://img.shields.io/badge/Web-imperialsoft.site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web"/>
 	</a>
 	<a href="mailto:ruschestebanalberto081201@gmail.com">
 		<img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -22,9 +21,9 @@
 </p>
 
 <p>
-	<img src="https://img.shields.io/badge/Actualmente-Desarrollando%20SaaS%20en%20producción-2563EB?style=flat-square" alt="Actualmente"/>
+	<img src="https://img.shields.io/badge/Actualmente-SaaS%20privado%20en%20pruebas-2563EB?style=flat-square" alt="Actualmente"/>
 	<img src="https://img.shields.io/badge/Perfil-Full%20Stack-0F766E?style=flat-square" alt="Perfil"/>
-	<img src="https://img.shields.io/badge/Modalidad-Autonomía%20con%20visión%20de%20equipo-7C3AED?style=flat-square" alt="Modalidad"/>
+	<img src="https://img.shields.io/badge/Enfoque-Ejecución%20técnica%20%2B%20criterio%20de%20producto-7C3AED?style=flat-square" alt="Enfoque"/>
 </p>
 
 </div>
@@ -38,7 +37,7 @@
 		<td>
 			Desarrollo soluciones full stack, desde el levantamiento de requerimientos hasta la puesta en producción.<br/>
 			Mi foco está en software útil para operación real: sistemas administrativos, digitalización de procesos y plataformas internas.<br/>
-			Trabajo con criterio técnico para equilibrar velocidad de entrega, mantenibilidad y seguridad.
+			Tomo decisiones técnicas con foco en reglas de negocio, riesgo operativo y mantenibilidad, buscando equilibrio entre calidad y entrega.
 		</td>
 	</tr>
 </table>
@@ -110,7 +109,7 @@
 			</ul>
 		</td>
 		<td width="50%" valign="top">
-			<h3><a href="https://github.com/EstebanRsh/Budgeted-Web">Budgeted-Web</a></h3>
+			<h3><a href="https://github.com/EstebanRsh/Budgeted-Web">Budgeted-Desktop</a></h3>
 			<p>Sistema de presupuestos para empresas con gestión comercial y exportación profesional.</p>
 			<p><strong>Qué hice:</strong></p>
 			<ul>
@@ -124,15 +123,6 @@
 	</tr>
 	<tr>
 		<td width="50%" valign="top">
-			<h3><a href="https://github.com/EstebanRsh/Budgeted-Web-Desktop">Budgeted-Web-Desktop</a></h3>
-			<p>Versión portable para escritorio, orientada a pequeñas empresas y autónomos.</p>
-			<ul>
-				<li>Base de datos SQLite integrada</li>
-				<li>Interfaz productiva para uso diario</li>
-				<li>Exportación de documentos comerciales</li>
-			</ul>
-		</td>
-		<td width="50%" valign="top">
 			<h3><a href="https://github.com/EstebanRsh/EscuelaApp">EscuelaApp</a></h3>
 			<p>Proyecto académico de gestión con stack mixto backend/frontend.</p>
 			<ul>
@@ -141,23 +131,43 @@
 				<li>Módulos con paginación y administración de datos</li>
 			</ul>
 		</td>
+	 <td width="50%" valign="top">
+		<h3><a href="#">POS - Sistema de Punto de Venta</a></h3>
+		<p>Aplicación de escritorio para gestión de ventas y stock en comercios. Desarrollada en C# con Windows Forms y SQL Server.</p>
+		<ul>
+		 <li>Registro y control de ventas, productos y stock</li>
+		 <li>Interfaz intuitiva para uso en mostrador</li>
+		 <li>Proyecto académico público</li>
+		</ul>
+	 </td>
 	</tr>
+ <tr>
+	<td width="50%" valign="top">
+	 <h3><a href="#">Registro de Vacunas de Mascotas</a></h3>
+	 <p>Sistema de escritorio para registrar y consultar vacunas aplicadas a mascotas. Realizado con C# Windows Forms y MYSQL.</p>
+	 <ul>
+		<li>Alta y seguimiento de mascotas y vacunas</li>
+		<li>Búsqueda y reportes por mascota o vacuna</li>
+		<li>Proyecto académico público</li>
+	 </ul>
+	</td>
+ </tr>
 </table>
 
 <table>
 	<tr>
 		<td>
-			<h3><a href="http://imperialsoft.site/">SaaS privado de presupuestación (en producción)</a></h3>
-			<p>Producto activo para generación de presupuestos comerciales, actualmente desplegado en producción.</p>
+			<h3><a href="http://imperialsoft.site/prevel">SaaS privado de presupuestación (en pruebas)</a></h3>
+			<p>Producto privado orientado a generación de presupuestos comerciales, actualmente en etapa de pruebas.</p>
 			<p>
 				<img src="https://img.shields.io/badge/Repositorio-Privado-111827?style=flat-square&logo=github&logoColor=white" alt="Repositorio privado" />
-				<img src="https://img.shields.io/badge/Estado-En%20producción-16A34A?style=flat-square&logo=vercel&logoColor=white" alt="En producción" />
+				<img src="https://img.shields.io/badge/Estado-En%20pruebas-F59E0B?style=flat-square&logo=testinglibrary&logoColor=white" alt="En pruebas" />
 				<img src="https://img.shields.io/badge/Tipo-SaaS-2563EB?style=flat-square&logo=icloud&logoColor=white" alt="SaaS" />
 			</p>
 			<ul>
 				<li>Arquitectura orientada a uso real y continuidad operativa.</li>
 				<li>Módulos de negocio para creación y gestión de presupuestos.</li>
-				<li>Mejoras iterativas basadas en uso y feedback de operación.</li>
+				<li>Etapa actual: validación funcional antes de uso con usuarios reales.</li>
 				<li>Código no público por estrategia de producto y seguridad.</li>
 			</ul>
 		</td>
@@ -169,22 +179,21 @@
 <table>
 	<tr>
 		<td>
-			• Productos desplegados en producción: SaaS de presupuestación, PWA para vinotecas y sistemas administrativos.<br/>
-			• Experiencia real en diferentes arquitecturas: web tradicional, SPA, PWA y aplicaciones de escritorio.<br/>
-			• Implementación de autenticación, validaciones de negocio y flujos completos de CRUD.<br/>
-			• Proyectos con foco en usabilidad, mantenimiento y escalabilidad progresiva.
+			• Lideré implementaciones full stack de punta a punta: modelado de datos, APIs, frontend y despliegue.<br/>
+			• Resuelvo problemas técnicos con diagnóstico previo (cuellos de botella, consultas, flujos críticos) antes de optimizar.<br/>
+			• Implemento cambios de forma incremental para reducir riesgo y facilitar rollback cuando el contexto lo exige.<br/>
+			• Trabajo bien en colaboración técnica: alineo decisiones, documento para continuidad y priorizo estabilidad operativa.<br/>
+			• Experiencia en múltiples formatos de producto: aplicaciones web, SPA, PWA y soluciones de escritorio.
 		</td>
 	</tr>
 </table>
 
-## Forma de trabajo
+## Criterio y toma de decisiones
 
-- Analizo el problema de negocio antes de definir arquitectura.
-- Priorizo MVP funcional y luego itero con mejoras medibles.
-- Documento decisiones técnicas para facilitar mantenimiento.
-- Trabajo con mentalidad de producto: rendimiento, claridad y experiencia de usuario.
-
----
+- Evalúo decisiones de arquitectura por impacto en negocio, riesgo técnico y costo de mantenimiento.
+- En funcionalidades críticas, priorizo soluciones que mantengan estabilidad operativa antes de complejidad innecesaria.
+- Cuando hay trade-offs entre velocidad y calidad, busco entregas iterativas con deuda técnica explícita y controlada.
+- En colaboración, defino criterios de decisión compartidos para reducir retrabajo y mejorar continuidad.
 
 ## Actividad en GitHub
 
@@ -197,14 +206,15 @@
 
 ## Cómo trabajo
 
-- Me gusta tener libertad para resolver problemas a mi manera, pero siempre estoy dispuesto a colaborar cuando hace falta.
-- Intento entregar cosas que realmente funcionen, no parches a medias.
-- Si algo no está claro en el código, prefiero documentarlo bien en lugar de dejar que el próximo se rompa la cabeza.
-- Aprendo rápido cuando hay que usar herramientas o formas de trabajo nuevas.
+- Defino funcionalidades desde reglas de negocio claras y criterios técnicos explícitos.
+- Antes de optimizar, mido y diagnostico para evitar cambios por intuición.
+- Entrego por etapas cuando es necesario, cuidando continuidad operativa y mantenibilidad.
+- Documento decisiones y límites de implementación para facilitar handoff y evolución.
+- Trabajo con autonomía y buena coordinación cuando el contexto requiere colaboración.
 
 ## Qué busco
 
-Oportunidades donde la calidad del producto importe más que la cantidad de features. Entornos donde pueda desarrollar soluciones con autonomía, responsabilidad técnica y visión de negocio. Mi enfoque es entregar software que funcione, se mantenga y agregue valor real.
+Este perfil funciona como portafolio técnico de proyectos reales. Estoy abierto a conversaciones para participar en productos donde se valore ejecución, criterio técnico y evolución continua.
 
 ## Contacto
 
