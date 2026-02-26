@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Esteban Rsh</h1>
-<h3>Desarrollador Full Stack | Construcción y evolución de productos SaaS</h3>
+<h3>Desarrollador Full Stack</h3>
 
 <p>
 	Diseño y desarrollo software enfocado en <strong>resultado de negocio, arquitectura limpia y calidad técnica</strong>.<br/>
